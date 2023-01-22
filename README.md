@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+<img src="https://github.com/ramykatour/NFT-Minting-Collection/blob/main/Web%20capture_22-1-2023_161526_nft-minting-collection.vercel.app.jpeg" width="128"/>
+
 In the project directory, you can run:
 
 ### `npm start`
